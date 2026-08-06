@@ -25,6 +25,6 @@ The pipeline answers questions about a company's internal documents by combining
 
 
 ## Notes
-- `knowledge-base` folder and all its sub-folders and `.md` files were made using an LLM.
+- `knowledge-base` folder and all its sub-folder files were made using an LLM.
 - `preprocessed_db/` (the Chroma vector store) is generated automatically on first run and is not included in the repo.
 - Requires a local sentence-transformer model (`all-MiniLM-L6-v2`), downloaded automatically on first run.
